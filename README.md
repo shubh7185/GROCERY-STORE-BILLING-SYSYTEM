@@ -37,4 +37,3 @@ This program is a simple implementation of a shopping management system using C+
 
 ---
 
-Feel free to customize this README file further based on your specific requirements or additional features of the program.
